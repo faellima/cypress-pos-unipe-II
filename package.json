@@ -1,0 +1,25 @@
+{
+  "name": "cypress-pos-unipe-ii",
+  "version": "1.0.0",
+  "description": "Testes em Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faellima/cypress-pos-unipe-II.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Rafael Ramos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faellima/cypress-pos-unipe-II/issues"
+  },
+  "homepage": "https://github.com/faellima/cypress-pos-unipe-II#readme",
+  "dependencies": {
+    "cypress": "^13.12.0"
+  }
+}
